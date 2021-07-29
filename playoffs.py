@@ -1,4 +1,5 @@
 import random
+import numpy as np
 
 """
 No need to modify. This premade function reads from a .txt file
